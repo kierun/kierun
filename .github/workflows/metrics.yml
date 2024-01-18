@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates.
   schedule: [{cron: "0 13 * * 1-5"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
@@ -11,7 +11,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
