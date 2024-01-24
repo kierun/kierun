@@ -2645,7 +2645,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 218 out of 64.1m repositories</span>
+                                    <span class="gh">ranked 218 out of 58.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">49344</div>
                                     </div>
@@ -2845,7 +2845,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jan 2024, 14:15:38 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Jan 2024, 14:16:23 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
