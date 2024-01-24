@@ -9,35 +9,31 @@
 I am an expert in cybersecurity & information security, software engineering,
 and scientific research.
 
-As the head of Information Security and cybersecurity, I developed security
-policies, processes, and tooling from the ground up. I worked with frameworks
-such as NIST Cybersecurity, SOC-2, and ISO 27,001 and defined governance and
-policies for generative artificial intelligence.
+During my quarter of a century career, I have gained extensive experience in all
+aspects of Cybersecurity and information security governance, multi-discipline
+team & project management, and software engineering. I implemented and optimised
+performance critical algorithms and applied them to high-level application
+architectures. I have managed teams across multiple disciplines and taken
+projects from conception to delivery using pragmatic, evolutionary
+methodologies. I applied modern security best practices to Cybersecurity and
+InfoSec governance, including generative artificial intelligence.
 
-As a scientific researcher, I worked in applied mathematical research and have a
-proven track record in in game, graph, and optimisation theories, Bayesian
-statistics. I hold a doctorate in theoretical astrophysics.
+I value:
 
-In engineering, I have a quarter of a century of experience developing
-successful secure high performance software applications and large scale
-architectures as well as deep knowledge of DevOps, some dating back to before
-the DevOps term was coined. This includes the development and administration of
-the largest email system in Europe, nanometre metrology of silicon wafers, and
-command & control of giant underwater robots.
+- Leaving code in a better state over letting bad code live.
+- Clarity and maintainability over information silos, and obfuscation.
+- Quality systems build on understanding and collaboration over heroic
+  individuals and generic tools.
+- Continuous refinement over big changes.
 
-During my career, I have gained extensive experience in all the technical
-aspects of software engineering and security, from performance critical
-algorithm implementation through to high-level application architectures.
-
-I have managed teams across multiple disciplines (Developers, DevOps, and SQA)
-and taken projects from conception to delivery using pragmatic, evolutionary
-methodologies.
+Notes
 
 - 🔭 I’m currently working on Cybersecurity & InfoSec governance and Gen AI.
-- 🌱 I’m currently learning many secret things.
+- 🌱 I’m currently learning many secret things,
+  [rust](https://www.rust-lang.org/learn) being one of them!
 - 💬 Ask me about all things mathematical, astrophysical, engineering, or
   Cybersecurity/InfoSec related.
-- 📫 How to reach me: need to know…
+- 📫 How to reach me: need to know… 😉
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play many [FromSoftware](https://www.fromsoftware.jp/ww/) games
   despite being a casual scrub…
