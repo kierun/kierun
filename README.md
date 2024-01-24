@@ -6,9 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&pause=1000&color=5E81AC&vCenter=true&random=false&width=600&lines=Expert+in+Cybersecurity+%26+InfoSec%2C+software+engineering%2C+and+scientific+research.)](https://git.io/typing-svg)
 
-I am an expert in cybersecurity & information security, software engineering,
-and scientific research.
-
 During my quarter of a century career, I have gained extensive experience in all
 aspects of Cybersecurity and information security governance, multi-discipline
 team & project management, and software engineering. I implemented and optimised
