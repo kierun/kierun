@@ -4,7 +4,7 @@
 
 ![View count](https://komarev.com/ghpvc/?username=kierun)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&pause=1000&color=5E81AC&vCenter=true&random=false&width=600&lines=A+senior+leader+in+Cybersecurity+&+InfoSec,+software+engineering,+and+scientific+research.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&pause=1000&color=5E81AC&vCenter=true&random=false&width=600&lines=A+senior+leader+in+Cybersecurity+%26+InfoSec%2C+software+engineering%2C+and+scientific+research.)](https://git.io/typing-svg)
 
 As an accomplished leader in greenfield project management, I adeptly
 incorporate security protocols from the project's inception, thereby emphasising
