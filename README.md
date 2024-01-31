@@ -20,11 +20,12 @@ generative artificial intelligence.
 
 In the Agile/Lean style, I value:
 
-- _Transparency_ and _maintainability_ over information silos and obfuscation.
-- Quality systems build on _understanding_ and _collaboration_ over heroic
+- **Transparency** and **maintainability** over information silos and
+  obfuscation.
+- Quality systems build on **understanding** and **collaboration** over heroic
   individuals and generic tools.
-- _Continuous refinement_ over big changes.
-- Leaving code in a _better state_ over letting bad code live.
+- **Continuous refinement** over big changes.
+- Leaving code in a **better state** over letting bad code live.
 
 Notes
 
