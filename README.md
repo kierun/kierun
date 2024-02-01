@@ -1,8 +1,10 @@
 ### Dr Yann Golanski
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-golanski-99199135/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/dr-yann-golanski-99199135?trk=profile-badge)
 ![View count](https://komarev.com/ghpvc/?username=kierun)
+![GitHub User's stars](https://img.shields.io/github/stars/kierun?style=flat-square)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/232794)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&pause=1000&color=5E81AC&vCenter=true&random=false&width=600&lines=A+senior+leader+in+Cybersecurity+%26+InfoSec%2C+software+engineering%2C+and+scientific+research.)](https://git.io/typing-svg)
 
