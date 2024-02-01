@@ -5,20 +5,19 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/kierun?style=flat-square)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/232794)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans+Narrow&pause=1000&color=5E81AC&vCenter=true&random=false&width=600&lines=A+senior+leader+in+Cybersecurity+%26+InfoSec%2C+software+engineering%2C+and+scientific+research.)](https://git.io/typing-svg)
 
 As an accomplished leader in greenfield project management, I adeptly
 incorporate security protocols from the project's inception, thereby emphasising
-a proactive Shift Left approach. During my quarter of a century career, I gained
-extensive experience in all aspects of Cybersecurity and information security
-governance, multi-discipline team & project management, and software
+a proactive Shift Left approach. During my quarter of a century career, I have
+gained extensive experience in all aspects of Cybersecurity and information
+security governance, multi-discipline team & project management, and software
 engineering. I implemented and optimised performance critical algorithm and
-applied them to high-level application architectures. I managed highly
-successful teams across multiple disciplines and taken projects from conception
-to delivery using pragmatic, evolutionary methodologies. I applied modern
-security best practices to Cybersecurity and InfoSec governance, including
-generative artificial intelligence.
+applied them to high-level application architectures. Successfully managing
+teams across various disciplines, I navigate projects from conception to
+delivery using pragmatic, evolutionary methodologies. I apply modern security
+best practices, including generative artificial intelligence, consistently
+throughout my work.
 
 In the Agile/Lean style, I value:
 
