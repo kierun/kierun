@@ -1,5 +1,16 @@
 ### Dr Yann Golanski
 
+> [!WARNING]
+>
+> 👉  [I have moved all my development work to Codeberg. Please join me there.](https://codeberg.org/kierun)
+>
+> This will remain active, but I am no longer willing to engage with GitHub…
+>
+> ¯\\\_(ツ)\_/¯
+>
+
+---- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/dr-yann-golanski-99199135?trk=profile-badge)
 ![View count](https://komarev.com/ghpvc/?username=kierun)
 ![GitHub User's stars](https://img.shields.io/github/stars/kierun?style=flat-square)
